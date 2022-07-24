@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{801E50F3-4770-85A2-823A-EE9BF5DADD2A}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "MyFPS4mobile",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
